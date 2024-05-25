@@ -1,0 +1,17 @@
+{
+  "name": "clabev2",
+  "version": "2.0.0",
+  "description": "Genera la cuenta clabe con el numero de cuenta (ahorroId)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "author": "Víctor Martínez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
